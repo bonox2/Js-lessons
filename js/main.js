@@ -150,3 +150,89 @@
     let day = 5
     console.log(arr[0][4])
 }
+//lesson 10
+//1
+{
+    
+    function number(num) {
+        return num * num
+    }
+}
+//2
+{
+    let a = 2
+    let b = 4
+    function number(a,b) {
+        
+        return num + num
+        
+    }
+}
+//3
+{
+    let a = 4
+    let b = 16
+    let c = 2
+    function number(a,b) {
+        
+        return a - b / c
+        
+    }
+}
+//4
+{
+    // let arr = [1,2,3,4,5,6,7]
+    // function number(arr) {
+        
+    //     return arr[0]
+        
+    // }
+}
+//lesson 11
+//1
+{
+    let str = '1,2,3,4,5,6,7,8,9,0'
+    let regexp = /5/gi
+    console.log(regexp.test(str))
+}
+//2
+// {
+//     let num = 31
+//     let regexp = /31/gi
+//     console.log(regexp.test(arr))
+// }
+//3
+{
+    let str = '1 2 3 4 5 6 7 8 9 0'
+    let regexp = /1 1/gi
+    console.log(regexp.test(str))
+}
+
+//lesson 12
+//1.2.3
+{
+    let a = 2
+    let b = 2
+    function num(a,b) {
+        a = b
+        return boolean
+    }
+}
+//lesson 13
+//1
+// {
+//     let i = 0
+//     for ( ;i < 10; ) {
+//         let str = i
+//         console.log(i++);
+//       }
+// }
+//2
+{
+    
+    for ( let i = 0 ;i < -10; ) {
+        let str = i
+        console.log(i--);
+      }
+}
+
