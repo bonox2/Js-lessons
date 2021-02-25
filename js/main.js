@@ -134,3 +134,152 @@ console.log(num);
     let day = 5
     console.log(arr[0][4])
 }
+
+//lesson4
+//1
+{
+    let a = 0;
+if (a == 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//2
+{
+    let a = 1;
+if (a > 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//3
+{
+    let a = -1;
+if (a < 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+
+}
+//4
+{
+    let a = 0;
+if (a >= 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//5
+{
+    let a = 0;
+if (a <= 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//6
+{
+    let a = 1;
+if (a != 0) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//7
+{
+    let a = 'test';
+if (a == 'test') {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//8
+{
+    let a = '1';
+if (a == '1') {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//9
+{
+    let test = true;
+if (test == true) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//10
+{
+    let test = false;
+if (test !== true) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//11
+{
+    let a = 2;
+if (a > 0 && a < 5) {
+	console.log('Верно');
+} else {
+	console.log('Неверно');
+}
+}
+//12
+{
+    let a = 2;
+if (a == 0 || a == 2) {
+	console.log(a+7);
+} else {
+	console.log(a/10);
+}
+}
+//13
+{
+    let a = 1;
+    let b = 5
+if (a == 1 || a < 1 && b >= 3) {
+	console.log(a+b);
+} else {
+	console.log(a-b);
+}
+}
+//14
+{
+    let a = 7;
+    let b = 10
+if (a > 2 && a < 11 || b >= 6 && b<14) {
+	console.log('Верно');
+} else {
+	console.log('Неверно')
+}
+}
+//switch
+//15
+{
+    let num = 1;
+if (min == 1) {
+	console.log('Зима');
+}
+if (min == 2) {
+	console.log('Весна');
+}
+if (min == 3) {
+	console.log('Лето');
+}
+if (min == 4) {
+	console.log('Осень')
+}
+}
+//16,17??????
