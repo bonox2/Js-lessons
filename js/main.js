@@ -268,18 +268,19 @@ if (a > 2 && a < 11 || b >= 6 && b<14) {
 //switch
 //15
 {
-    let num = 1;
-if (min == 1) {
-	console.log('Зима');
-}
-if (min == 2) {
-	console.log('Весна');
-}
-if (min == 3) {
-	console.log('Лето');
-}
-if (min == 4) {
-	console.log('Осень')
+    switch (a){
+    case '1':
+        console.log('зима')
+    break;
+    case '2':
+        console.log('весна')
+    break;
+    case '3':
+        console.log('лето')
+    break;
+    case '4':
+        console.log('осень')
+    break;
 }
 }
 //16,17??????
